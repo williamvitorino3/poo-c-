@@ -1,0 +1,3 @@
+Agora, adicione à solution um projeto Console Application. Neste projeto, crie um programa que faça as
+operações de Depósito e Saque na Conta Poupança e Conta Corrente. O Usuário deve também visualizar o
+saldo na conta corrente e na conta poupança. Seja criativo.
