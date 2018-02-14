@@ -8,3 +8,16 @@
 /home/belshoff/IFCE/lp2/poo-c#/App2/obj/Debug/netcoreapp2.0/App2.AssemblyInfo.cs
 /home/belshoff/IFCE/lp2/poo-c#/App2/obj/Debug/netcoreapp2.0/App2.dll
 /home/belshoff/IFCE/lp2/poo-c#/App2/obj/Debug/netcoreapp2.0/App2.pdb
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\App2.deps.json
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\App2.runtimeconfig.json
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\App2.runtimeconfig.dev.json
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\App2.dll
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\App2.pdb
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\ClassLib.dll
+C:\Users\willi\Desktop\poo-csharp\App2\bin\Debug\netcoreapp2.0\ClassLib.pdb
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.AssemblyInfo.cs
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.dll
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.pdb
+C:\Users\willi\Desktop\poo-csharp\App2\obj\Debug\netcoreapp2.0\App2.csprojResolveAssemblyReference.cache
