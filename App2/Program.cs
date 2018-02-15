@@ -45,7 +45,7 @@ namespace App2
             Console.Write("Titular: ");
             string titular = Console.ReadLine();
             DateTime aniversario = DateTime.Now;
-            Console.Write("Jutos: R$ ");
+            Console.Write("Juros: R$ ");
             double juros = Convert.ToDouble(Console.ReadLine());
             Console.Clear();
             if(cType == 1)
