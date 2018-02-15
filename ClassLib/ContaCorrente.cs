@@ -6,8 +6,8 @@ namespace conta
   {
     public const double Taxa = 0.10;
     public override string Id { get {return titular + " (CC)";} }
-    public ContaCorrente(double taxaJuros, DateTime dataAniversario, string titular): base(titular)
-    {}
+    public ContaCorrente(): base("") {}
+    public ContaCorrente(double taxaJuros, DateTime dataAniversario, string titular): base(titular){}
 
     public override void Depositar(double valor)
     {

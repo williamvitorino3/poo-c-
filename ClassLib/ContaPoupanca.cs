@@ -8,6 +8,7 @@ namespace conta
     private double taxaJuros { get; set; }
     private DateTime dataAniversario { get; set; }
 
+    public ContaPoupanca(): base("") {}
     public ContaPoupanca(double taxaJuros, DateTime dataAniversario, string titular): base(titular)
     {
       this.taxaJuros = taxaJuros;
