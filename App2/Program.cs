@@ -1,21 +1,22 @@
 ﻿using System;
 using conta;
 using Microsoft.EntityFrameworkCore;
+using DataContext;
 
 namespace App2
 {
     class Program
     {
-        DataContext contexto;
+        private static Context _;
         static void Main(string[] args)
         {
-            contexto = new DataContext();
+            _ = new Context();
             int option;
             do
             {
                 option = menu();
                 Console.WriteLine(option);
-                contexto.Contas.Add();
+                // _.Contas.Add();
             } while (option != 0);
         }
 
@@ -35,7 +36,7 @@ namespace App2
             if(cType == 1)
             {
                 ContaCorrente conta = new ContaCorrente(juros, aniversario, titular);
-                this.contexto.Set<ContaCorrente>().Add(conta);
+                _.Set<ContaCorrente>().Add(conta);
             }
             // Conta c = new Conta(Console.ReadLine());
         }
