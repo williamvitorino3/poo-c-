@@ -15,6 +15,10 @@ namespace App2
             do
             {
                 option = menu();
+                if (option == 1)
+                {
+                    criar();
+                }
                 Console.WriteLine(option);
                 // _.Contas.Add();
             } while (option != 0);
@@ -27,7 +31,7 @@ namespace App2
                 "[ 1 ] - Corrente" + "\n" +
                 "[ 2 ] - Poupança"
             );
-            int cType = Console.ReadLine();
+            int cType = Convert.ToInt32(Console.ReadLine());
                 Console.Write("Titular: ");
                 string titular = Console.ReadLine();
                 DateTime aniversario = DateTime.Now;
